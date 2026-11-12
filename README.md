@@ -207,4 +207,4 @@ ScanTransfer is offered as a full free version with all features and updates inc
 Ready to simplify your file transfers? **Download ScanTransfer now and experience the convenience!**
 
 ---
-**Last updated:** 2026-11-12 04:25:25 UTC
+**Last updated:** 2026-11-12 13:19:59 UTC
